@@ -1,0 +1,9 @@
+BUSINESS INSIGHT
+
+The Multi-Currency Revenue Reporter was developed to evaluate whether observed revenue trends were influenced by business performance or foreign exchange movements.
+
+Monthly realized revenue was converted from INR to USD using historical exchange rates retrieved from the Frankfurter FX API. After comparing INR revenue trends with FX-adjusted USD revenue trends, the overall pattern remained largely consistent across both measures.
+
+This indicates that the platform's revenue growth was primarily driven by booking activity rather than favorable currency fluctuations. Therefore, business performance improvements observed during the analysis period represent genuine operational growth rather than exchange-rate effects.
+
+The analysis provides international stakeholders with a more accurate view of performance by separating underlying business growth from currency-related impacts.

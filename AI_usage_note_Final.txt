@@ -1,0 +1,9 @@
+AI USAGE NOTE
+
+AI assistance was used to support multiple stages of this assessment, including data analysis guidance, SQL query structuring, report organization, Power BI dashboard design, and Frankfurter FX API integration for the Multi-Currency Revenue Reporter.
+
+Manual work included data cleaning, validation of results, debugging code, executing analyses, creating visualizations, building the Power BI dashboard, and reviewing all business findings and recommendations.
+
+Additional corrections were made to historical FX rate handling, API error management, revenue conversion calculations, and report formatting to ensure accuracy and compliance with assessment requirements.
+
+AI was used as a productivity and learning tool, while all final outputs, interpretations, and conclusions were manually verified before submission.
