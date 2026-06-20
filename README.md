@@ -1,8 +1,3 @@
-# TravClan Business Analyst Intern Assessment - Set C
-
-## Submitted By
-**Surbhi Jain**
-
 ## Project Overview
 
 This project was completed as part of the TravClan Business Analyst Intern Technical Assessment (Set C).
