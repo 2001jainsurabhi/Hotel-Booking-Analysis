@@ -1,4 +1,4 @@
-# Hotel Booking Flat
+# Hotel Bookings Flat
 
 ## Project Overview
 
